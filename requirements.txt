@@ -1,4 +1,4 @@
-Faker==13.3.3
 pytest==6.2.5
 selenium==3.141.0
+Faker==13.3.3
 fake-factory==0.7.2
